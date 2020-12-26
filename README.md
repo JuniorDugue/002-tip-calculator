@@ -4,8 +4,12 @@
 
 
 ### exercise1
+![exercise1challenge](/assets/exercise1demo.gif)
 [repl.it link](https://repl.it/@jrdugue/day-2-1-exercise)
 
+### exercise2
+![](/assets/exercise2demo.gif)
+[repl.it link](https://repl.it/@jrdugue/day-2-2-exercise#README.md)
 
 #### notes
 ![len() error](/assets/len_error.jpg)
