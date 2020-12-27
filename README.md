@@ -14,7 +14,7 @@
 #### notes
 ![len() error](/assets/len_error.jpg)
 - we can use len() on string, not numbers/integers
-- if we wanted to use len() on integers, we'd have to add quotes/double quotes around the numbers e.g. `print(len(12345))` -> 5
+- if we wanted to use len() on integers, we'd have to add quotes/double quotes around the numbers e.g. `print(len(12345))` -> 5 or convert them using int()
 
 ![printing 1st character of a string](/assets/1st_character.jpg)
 - 'subscripting'
@@ -35,5 +35,7 @@ print(type(b)) # would print <class 'float'>
   * print(70 + float("100.5")) # would print 170.5 because the string would be converted to a float number, that will later get added to 70
 
   * print(str(70) + str(100)) # would print 70100 
+
+  - **int() would convert strings into integers
   ---
 
