@@ -20,4 +20,20 @@
 - 'subscripting'
 
 ---
+![string function](/assets/str_function.jpg)
+- type conversion / type casting, where we change 1 piece of data type to another
+  * we can set a bunch of data types into a string, not just numbers
+  * a = 123
+print(type(a)) # would print <class 'int'>
+
+  * A = str(123)
+print(type(A)) # would print <class 'str'>
+
+  * b = float(123)
+print(type(b)) # would print <class 'float'>
+
+  * print(70 + float("100.5")) # would print 170.5 because the string would be converted to a float number, that will later get added to 70
+
+  * print(str(70) + str(100)) # would print 70100 
+  ---
 
