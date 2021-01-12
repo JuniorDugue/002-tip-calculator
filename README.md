@@ -6,7 +6,7 @@
 ### exercise1
 ![exercise1challenge](/assets/exercise1demo.gif)
 [repl.it link](https://repl.it/@jrdugue/day-2-1-exercise)
-
+https://repl.it/@jrdugue/day-2-1-exercise#README.md
 ### exercise2
 ![](/assets/exercise2demo.gif)
 [repl.it link](https://repl.it/@jrdugue/day-2-2-exercise#README.md)

@@ -9,10 +9,14 @@ two_digit_number = input("Type a two digit number: ")
 ####################################
 #Write your code below this line 👇
 
+
+# attempts
+
 # a = two_digit_number
 # b = two_digit_number
 # print(type(two_digit_number))
 # currently it's printing out a str data type, we'd need to convert it to an integer
+
 
 # a = int(two_digit_number)
 # would result in e.g. using 32 ---> 64
