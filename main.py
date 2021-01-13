@@ -1,9 +1,9 @@
 # Data Types
 
-# String
+# String + subscript
 print("Junior"[0])
 
-# challenge.. 0 printed out J, try to print r
+# challenge.. 0 printed out J, try to print r using subscripts
 print("Junior"[5])
 
 print(len("12345"))
@@ -16,7 +16,7 @@ print(len("12345"))
 hourly = 40
 print(type(hourly))
 
-# if you're not sure of the data type, you can use type() function 
+# if you're not sure of the data type, you can use type() function
 
 
 # type conversions
@@ -29,3 +29,8 @@ print(len(newExample))
 
 print(70 + float("100.5"))
 print(str(70) + str(100))
+
+
+# subscripting
+subscript = 'january'
+print(subscript[0])
